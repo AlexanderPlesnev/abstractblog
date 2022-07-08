@@ -1,0 +1,22 @@
+{
+  "name": "abstractblog",
+  "version": "1.0.0",
+  "description": "abstract blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AlexanderPlesnev/abstractblog"
+  },
+  "keywords": [
+    "abstract",
+    "blog"
+  ],
+  "author": "Alexander Plesnev",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
